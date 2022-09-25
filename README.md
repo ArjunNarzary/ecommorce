@@ -1,6 +1,6 @@
 # E-commerce product page
 
-Simple e-commerce product landing page with add to cart functionalites
+Simple e-commerce product landing page with add to cart functionalities
 
 # Technologies used
 
@@ -11,4 +11,10 @@ Simple e-commerce product landing page with add to cart functionalites
 
 # Dummy API used
 
--
+- dummyJSON
+
+# Steps to run the project
+
+1. Clone the repository
+2. Run "npm install" or "yarn install"
+3. Run "npm run start" or "yarn start"
